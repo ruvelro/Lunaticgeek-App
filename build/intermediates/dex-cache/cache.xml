@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_08293c10b088142b685b0a1912ec12b6a8ea5d91\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_0e08e7fe46e147d7f34494b9a43cc6fd628b0162\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1dc6a714827e3750fb815b255d48ac22229d727c">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_58a0cd4b00386448af204768f3fa445f5c97b0c8\classes.dex" />
+    </item>
+    <item
+        jar="E:\Programacion\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_99c87cea049276837127ac03399486b0d24cb146\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ceb69e65d9a621f42cc42d04d9aef8b51c50284c">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf35b0b17c9ab348e8d6ca9da7fa40a0edc57a19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ruvel\AndroidStudioProjects\Lunaticgeek\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_cf285cac57560f154c9f28b39133bc68d90c1bd0\classes.dex" />
+    </item>
+
+</items>
